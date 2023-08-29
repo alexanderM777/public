@@ -1,0 +1,17 @@
+C:\Users\Mauro\source\repos\notaPractica\nota\bin\Debug\net6.0-windows\nota.exe
+C:\Users\Mauro\source\repos\notaPractica\nota\bin\Debug\net6.0-windows\nota.deps.json
+C:\Users\Mauro\source\repos\notaPractica\nota\bin\Debug\net6.0-windows\nota.runtimeconfig.json
+C:\Users\Mauro\source\repos\notaPractica\nota\bin\Debug\net6.0-windows\nota.dll
+C:\Users\Mauro\source\repos\notaPractica\nota\bin\Debug\net6.0-windows\nota.pdb
+C:\Users\Mauro\source\repos\notaPractica\nota\obj\Debug\net6.0-windows\nota.csproj.AssemblyReference.cache
+C:\Users\Mauro\source\repos\notaPractica\nota\obj\Debug\net6.0-windows\nota.Form1.resources
+C:\Users\Mauro\source\repos\notaPractica\nota\obj\Debug\net6.0-windows\nota.csproj.GenerateResource.cache
+C:\Users\Mauro\source\repos\notaPractica\nota\obj\Debug\net6.0-windows\nota.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mauro\source\repos\notaPractica\nota\obj\Debug\net6.0-windows\nota.AssemblyInfoInputs.cache
+C:\Users\Mauro\source\repos\notaPractica\nota\obj\Debug\net6.0-windows\nota.AssemblyInfo.cs
+C:\Users\Mauro\source\repos\notaPractica\nota\obj\Debug\net6.0-windows\nota.csproj.CoreCompileInputs.cache
+C:\Users\Mauro\source\repos\notaPractica\nota\obj\Debug\net6.0-windows\nota.dll
+C:\Users\Mauro\source\repos\notaPractica\nota\obj\Debug\net6.0-windows\refint\nota.dll
+C:\Users\Mauro\source\repos\notaPractica\nota\obj\Debug\net6.0-windows\nota.pdb
+C:\Users\Mauro\source\repos\notaPractica\nota\obj\Debug\net6.0-windows\nota.genruntimeconfig.cache
+C:\Users\Mauro\source\repos\notaPractica\nota\obj\Debug\net6.0-windows\ref\nota.dll
