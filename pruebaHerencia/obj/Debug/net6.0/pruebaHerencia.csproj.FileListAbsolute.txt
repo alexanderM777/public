@@ -1,0 +1,15 @@
+C:\Users\JADPA-27\source\repos\pruebaHerencia\pruebaHerencia\bin\Debug\net6.0\pruebaHerencia.exe
+C:\Users\JADPA-27\source\repos\pruebaHerencia\pruebaHerencia\bin\Debug\net6.0\pruebaHerencia.deps.json
+C:\Users\JADPA-27\source\repos\pruebaHerencia\pruebaHerencia\bin\Debug\net6.0\pruebaHerencia.runtimeconfig.json
+C:\Users\JADPA-27\source\repos\pruebaHerencia\pruebaHerencia\bin\Debug\net6.0\pruebaHerencia.dll
+C:\Users\JADPA-27\source\repos\pruebaHerencia\pruebaHerencia\bin\Debug\net6.0\pruebaHerencia.pdb
+C:\Users\JADPA-27\source\repos\pruebaHerencia\pruebaHerencia\obj\Debug\net6.0\pruebaHerencia.csproj.AssemblyReference.cache
+C:\Users\JADPA-27\source\repos\pruebaHerencia\pruebaHerencia\obj\Debug\net6.0\pruebaHerencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JADPA-27\source\repos\pruebaHerencia\pruebaHerencia\obj\Debug\net6.0\pruebaHerencia.AssemblyInfoInputs.cache
+C:\Users\JADPA-27\source\repos\pruebaHerencia\pruebaHerencia\obj\Debug\net6.0\pruebaHerencia.AssemblyInfo.cs
+C:\Users\JADPA-27\source\repos\pruebaHerencia\pruebaHerencia\obj\Debug\net6.0\pruebaHerencia.csproj.CoreCompileInputs.cache
+C:\Users\JADPA-27\source\repos\pruebaHerencia\pruebaHerencia\obj\Debug\net6.0\pruebaHerencia.dll
+C:\Users\JADPA-27\source\repos\pruebaHerencia\pruebaHerencia\obj\Debug\net6.0\refint\pruebaHerencia.dll
+C:\Users\JADPA-27\source\repos\pruebaHerencia\pruebaHerencia\obj\Debug\net6.0\pruebaHerencia.pdb
+C:\Users\JADPA-27\source\repos\pruebaHerencia\pruebaHerencia\obj\Debug\net6.0\pruebaHerencia.genruntimeconfig.cache
+C:\Users\JADPA-27\source\repos\pruebaHerencia\pruebaHerencia\obj\Debug\net6.0\ref\pruebaHerencia.dll
