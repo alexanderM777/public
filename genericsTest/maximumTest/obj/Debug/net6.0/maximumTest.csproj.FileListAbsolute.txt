@@ -1,0 +1,15 @@
+C:\Users\JADPA-28\source\repos\genericsTest\maximumTest\bin\Debug\net6.0\maximumTest.exe
+C:\Users\JADPA-28\source\repos\genericsTest\maximumTest\bin\Debug\net6.0\maximumTest.deps.json
+C:\Users\JADPA-28\source\repos\genericsTest\maximumTest\bin\Debug\net6.0\maximumTest.runtimeconfig.json
+C:\Users\JADPA-28\source\repos\genericsTest\maximumTest\bin\Debug\net6.0\maximumTest.dll
+C:\Users\JADPA-28\source\repos\genericsTest\maximumTest\bin\Debug\net6.0\maximumTest.pdb
+C:\Users\JADPA-28\source\repos\genericsTest\maximumTest\obj\Debug\net6.0\maximumTest.csproj.AssemblyReference.cache
+C:\Users\JADPA-28\source\repos\genericsTest\maximumTest\obj\Debug\net6.0\maximumTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JADPA-28\source\repos\genericsTest\maximumTest\obj\Debug\net6.0\maximumTest.AssemblyInfoInputs.cache
+C:\Users\JADPA-28\source\repos\genericsTest\maximumTest\obj\Debug\net6.0\maximumTest.AssemblyInfo.cs
+C:\Users\JADPA-28\source\repos\genericsTest\maximumTest\obj\Debug\net6.0\maximumTest.csproj.CoreCompileInputs.cache
+C:\Users\JADPA-28\source\repos\genericsTest\maximumTest\obj\Debug\net6.0\maximumTest.dll
+C:\Users\JADPA-28\source\repos\genericsTest\maximumTest\obj\Debug\net6.0\refint\maximumTest.dll
+C:\Users\JADPA-28\source\repos\genericsTest\maximumTest\obj\Debug\net6.0\maximumTest.pdb
+C:\Users\JADPA-28\source\repos\genericsTest\maximumTest\obj\Debug\net6.0\maximumTest.genruntimeconfig.cache
+C:\Users\JADPA-28\source\repos\genericsTest\maximumTest\obj\Debug\net6.0\ref\maximumTest.dll

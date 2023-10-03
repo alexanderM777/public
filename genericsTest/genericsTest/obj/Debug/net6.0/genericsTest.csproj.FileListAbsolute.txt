@@ -1,0 +1,15 @@
+C:\Users\JADPA-28\source\repos\genericsTest\genericsTest\bin\Debug\net6.0\genericsTest.exe
+C:\Users\JADPA-28\source\repos\genericsTest\genericsTest\bin\Debug\net6.0\genericsTest.deps.json
+C:\Users\JADPA-28\source\repos\genericsTest\genericsTest\bin\Debug\net6.0\genericsTest.runtimeconfig.json
+C:\Users\JADPA-28\source\repos\genericsTest\genericsTest\bin\Debug\net6.0\genericsTest.dll
+C:\Users\JADPA-28\source\repos\genericsTest\genericsTest\bin\Debug\net6.0\genericsTest.pdb
+C:\Users\JADPA-28\source\repos\genericsTest\genericsTest\obj\Debug\net6.0\genericsTest.csproj.AssemblyReference.cache
+C:\Users\JADPA-28\source\repos\genericsTest\genericsTest\obj\Debug\net6.0\genericsTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JADPA-28\source\repos\genericsTest\genericsTest\obj\Debug\net6.0\genericsTest.AssemblyInfoInputs.cache
+C:\Users\JADPA-28\source\repos\genericsTest\genericsTest\obj\Debug\net6.0\genericsTest.AssemblyInfo.cs
+C:\Users\JADPA-28\source\repos\genericsTest\genericsTest\obj\Debug\net6.0\genericsTest.csproj.CoreCompileInputs.cache
+C:\Users\JADPA-28\source\repos\genericsTest\genericsTest\obj\Debug\net6.0\genericsTest.dll
+C:\Users\JADPA-28\source\repos\genericsTest\genericsTest\obj\Debug\net6.0\refint\genericsTest.dll
+C:\Users\JADPA-28\source\repos\genericsTest\genericsTest\obj\Debug\net6.0\genericsTest.pdb
+C:\Users\JADPA-28\source\repos\genericsTest\genericsTest\obj\Debug\net6.0\genericsTest.genruntimeconfig.cache
+C:\Users\JADPA-28\source\repos\genericsTest\genericsTest\obj\Debug\net6.0\ref\genericsTest.dll
