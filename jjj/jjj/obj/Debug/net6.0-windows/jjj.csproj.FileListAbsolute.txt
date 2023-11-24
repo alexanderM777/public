@@ -1,0 +1,17 @@
+C:\Users\Mauro\source\repos\jjj\jjj\bin\Debug\net6.0-windows\jjj.exe
+C:\Users\Mauro\source\repos\jjj\jjj\bin\Debug\net6.0-windows\jjj.deps.json
+C:\Users\Mauro\source\repos\jjj\jjj\bin\Debug\net6.0-windows\jjj.runtimeconfig.json
+C:\Users\Mauro\source\repos\jjj\jjj\bin\Debug\net6.0-windows\jjj.dll
+C:\Users\Mauro\source\repos\jjj\jjj\bin\Debug\net6.0-windows\jjj.pdb
+C:\Users\Mauro\source\repos\jjj\jjj\obj\Debug\net6.0-windows\jjj.csproj.AssemblyReference.cache
+C:\Users\Mauro\source\repos\jjj\jjj\obj\Debug\net6.0-windows\jjj.linq.resources
+C:\Users\Mauro\source\repos\jjj\jjj\obj\Debug\net6.0-windows\jjj.csproj.GenerateResource.cache
+C:\Users\Mauro\source\repos\jjj\jjj\obj\Debug\net6.0-windows\jjj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mauro\source\repos\jjj\jjj\obj\Debug\net6.0-windows\jjj.AssemblyInfoInputs.cache
+C:\Users\Mauro\source\repos\jjj\jjj\obj\Debug\net6.0-windows\jjj.AssemblyInfo.cs
+C:\Users\Mauro\source\repos\jjj\jjj\obj\Debug\net6.0-windows\jjj.csproj.CoreCompileInputs.cache
+C:\Users\Mauro\source\repos\jjj\jjj\obj\Debug\net6.0-windows\jjj.dll
+C:\Users\Mauro\source\repos\jjj\jjj\obj\Debug\net6.0-windows\refint\jjj.dll
+C:\Users\Mauro\source\repos\jjj\jjj\obj\Debug\net6.0-windows\jjj.pdb
+C:\Users\Mauro\source\repos\jjj\jjj\obj\Debug\net6.0-windows\jjj.genruntimeconfig.cache
+C:\Users\Mauro\source\repos\jjj\jjj\obj\Debug\net6.0-windows\ref\jjj.dll
