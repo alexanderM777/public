@@ -1,0 +1,35 @@
+E:\Nueva carpeta\Examen2\Examen2\bin\Debug\net6.0-windows\Examen2.exe
+E:\Nueva carpeta\Examen2\Examen2\bin\Debug\net6.0-windows\Examen2.deps.json
+E:\Nueva carpeta\Examen2\Examen2\bin\Debug\net6.0-windows\Examen2.runtimeconfig.json
+E:\Nueva carpeta\Examen2\Examen2\bin\Debug\net6.0-windows\Examen2.dll
+E:\Nueva carpeta\Examen2\Examen2\bin\Debug\net6.0-windows\Examen2.pdb
+E:\Nueva carpeta\Examen2\Examen2\obj\Debug\net6.0-windows\Examen2.csproj.AssemblyReference.cache
+E:\Nueva carpeta\Examen2\Examen2\obj\Debug\net6.0-windows\Examen2.frmPrincipal.resources
+E:\Nueva carpeta\Examen2\Examen2\obj\Debug\net6.0-windows\Examen2.csproj.GenerateResource.cache
+E:\Nueva carpeta\Examen2\Examen2\obj\Debug\net6.0-windows\Examen2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Nueva carpeta\Examen2\Examen2\obj\Debug\net6.0-windows\Examen2.AssemblyInfoInputs.cache
+E:\Nueva carpeta\Examen2\Examen2\obj\Debug\net6.0-windows\Examen2.AssemblyInfo.cs
+E:\Nueva carpeta\Examen2\Examen2\obj\Debug\net6.0-windows\Examen2.csproj.CoreCompileInputs.cache
+E:\Nueva carpeta\Examen2\Examen2\obj\Debug\net6.0-windows\Examen2.dll
+E:\Nueva carpeta\Examen2\Examen2\obj\Debug\net6.0-windows\refint\Examen2.dll
+E:\Nueva carpeta\Examen2\Examen2\obj\Debug\net6.0-windows\Examen2.pdb
+E:\Nueva carpeta\Examen2\Examen2\obj\Debug\net6.0-windows\Examen2.genruntimeconfig.cache
+E:\Nueva carpeta\Examen2\Examen2\obj\Debug\net6.0-windows\ref\Examen2.dll
+E:\Nueva carpeta\Examen2\Examen2\obj\Debug\net6.0-windows\Examen2.Autor.resources
+C:\Users\Mauro\source\repos\b\Examen2\bin\Debug\net6.0-windows\Examen2.exe
+C:\Users\Mauro\source\repos\b\Examen2\bin\Debug\net6.0-windows\Examen2.deps.json
+C:\Users\Mauro\source\repos\b\Examen2\bin\Debug\net6.0-windows\Examen2.runtimeconfig.json
+C:\Users\Mauro\source\repos\b\Examen2\bin\Debug\net6.0-windows\Examen2.dll
+C:\Users\Mauro\source\repos\b\Examen2\bin\Debug\net6.0-windows\Examen2.pdb
+C:\Users\Mauro\source\repos\b\Examen2\obj\Debug\net6.0-windows\Examen2.csproj.AssemblyReference.cache
+C:\Users\Mauro\source\repos\b\Examen2\obj\Debug\net6.0-windows\Examen2.frmPrincipal.resources
+C:\Users\Mauro\source\repos\b\Examen2\obj\Debug\net6.0-windows\Examen2.csproj.GenerateResource.cache
+C:\Users\Mauro\source\repos\b\Examen2\obj\Debug\net6.0-windows\Examen2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mauro\source\repos\b\Examen2\obj\Debug\net6.0-windows\Examen2.AssemblyInfoInputs.cache
+C:\Users\Mauro\source\repos\b\Examen2\obj\Debug\net6.0-windows\Examen2.AssemblyInfo.cs
+C:\Users\Mauro\source\repos\b\Examen2\obj\Debug\net6.0-windows\Examen2.csproj.CoreCompileInputs.cache
+C:\Users\Mauro\source\repos\b\Examen2\obj\Debug\net6.0-windows\Examen2.dll
+C:\Users\Mauro\source\repos\b\Examen2\obj\Debug\net6.0-windows\refint\Examen2.dll
+C:\Users\Mauro\source\repos\b\Examen2\obj\Debug\net6.0-windows\Examen2.pdb
+C:\Users\Mauro\source\repos\b\Examen2\obj\Debug\net6.0-windows\Examen2.genruntimeconfig.cache
+C:\Users\Mauro\source\repos\b\Examen2\obj\Debug\net6.0-windows\ref\Examen2.dll
