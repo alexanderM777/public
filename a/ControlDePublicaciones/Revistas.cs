@@ -10,12 +10,14 @@ namespace ControlDePublicaciones
     {
         //Las revistas tienen título, periodicidad (mensual, semanal o quincenal) y costo. (2 puntos)
         public string Periodicidad { get; set; }
+        public string TITULOS { get; set; }
+        public  double COSTOS { get; set; }
 
         public override string ToString()
         {
-            return string.Format($"El libro con periocidad :{Periodicidad}\n " +
-                $" con un titulo : {titulo} +" +
-                $" con un costo de {Costo}");
+            return string.Format($" {pAutor} El libro con periocidad :{Periodicidad} " +
+                $" con un titulo : {TITULOS} +" +
+                $" con un costo de {COSTOS}");
         }
     }
 }

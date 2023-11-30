@@ -32,3 +32,5 @@ C:\Users\Mauro\source\repos\a\ControlDePublicaciones\obj\Debug\net6.0-windows\re
 C:\Users\Mauro\source\repos\a\ControlDePublicaciones\obj\Debug\net6.0-windows\ControlDePublicaciones.pdb
 C:\Users\Mauro\source\repos\a\ControlDePublicaciones\obj\Debug\net6.0-windows\ControlDePublicaciones.genruntimeconfig.cache
 C:\Users\Mauro\source\repos\a\ControlDePublicaciones\obj\Debug\net6.0-windows\ref\ControlDePublicaciones.dll
+C:\Users\Mauro\source\repos\a\ControlDePublicaciones\obj\Debug\net6.0-windows\ControlDePublicaciones.Form1.resources
+C:\Users\Mauro\source\repos\a\ControlDePublicaciones\obj\Debug\net6.0-windows\ControlDePublicaciones.Properties.Resources.resources
